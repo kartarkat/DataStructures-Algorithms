@@ -1,4 +1,12 @@
- public void findPairs() {
+    /*
+    find pairs with given sum, given a array of size n
+    find all pairs, it ia sorted array with distinct number
+    if no pair then, print -1.
+
+    for example: 1,2,3,4,5,6,7 - 9
+    2+7, 3+6, 4+5
+    */ 
+public void findPairs() {
 
         int arr[] = {1, 2, 3, 4, 5, 6, 7, 8,9,10};
         int total = -12;
